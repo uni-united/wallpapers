@@ -2,23 +2,23 @@
   "wallpapers":[
     {
       "id":"1",
-      "url":""
+      "url":"url1"
     },
     {
       "id":"2",
-      "url":""
+      "url":"url2"
     },
     {
       "id":"3",
-      "url":""
+      "url":"url3"
     },
     {
       "id":"4",
-      "url":""
+      "url":"url4"
     },
     {
       "id":"5",
-      "url":""
+      "url":"url5"
     }
   ]
 }
