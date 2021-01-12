@@ -2,7 +2,7 @@
   "categories":[
     {
       "categoryId": "category_allah_name",
-          "categoryName": '"Allah Names",
+          "categoryName": "Allah Names",
           "imgUrl":
               "https://raw.githubusercontent.com/uni-united/wallpapers/main/categories/category_allah_name.jpg"
     },
