@@ -1,0 +1,31 @@
+{
+  "categories":[
+    {
+      "category":"category_allah_name"
+    },
+    {
+      "category":"category_mohammed_saws_name"
+    },
+    {
+      "category":"category_mecca"
+    },
+    {
+      "category":"category_madina"
+    },
+    {
+      "category":"category_quran"
+    },
+    {
+      "category":"category_mosque"
+    },
+    {
+      "category":"category_ramazan"
+    },
+    {
+      "category":"category_calligraphy"
+    },
+    {
+      "category":"category_archeology"
+    },
+  ]
+}
