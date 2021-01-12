@@ -53,6 +53,6 @@
           "categoryName": "Archeology",
           "imgUrl":
               "https://raw.githubusercontent.com/uni-united/wallpapers/main/categories/category_archeology.jpg"
-    },
+    }
   ]
 }
