@@ -1,10 +1,10 @@
 {
   "categories":[
     {
-      "categoryId": "category_allah_mohammed",
+      "categoryId": "category_allah_mohammed_saws",
           "categoryName":"Allah & Mohammedﷺ",
           "imgUrl":
-              "https://raw.githubusercontent.com/uni-united/wallpapers/main/categories/category_allah_mohammed.jpg"
+              "https://raw.githubusercontent.com/uni-united/wallpapers/main/categories/category_allah_mohammed_saws.jpg"
     },
     {
       "categoryId": "category_mecca",
